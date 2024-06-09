@@ -16,3 +16,5 @@ else:
     resultado = valorB - valorA
 
 print("O resultado da diferença dos dois é :", resultado)
+
+print("")
